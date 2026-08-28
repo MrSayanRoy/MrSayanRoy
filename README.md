@@ -119,19 +119,6 @@ Data Structures & Algo    ██████████░░░░░░░░
 AI & Automation           ████████░░░░░░░░░░
 ```
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MrSayanRoy&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSayanRoy&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
