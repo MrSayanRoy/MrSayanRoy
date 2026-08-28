@@ -121,13 +121,15 @@ AI & Automation           ████████░░░░░░░░░░
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MrSayanRoy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MrSayanRoy&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSayanRoy&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSayanRoy&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -137,7 +139,7 @@ AI & Automation           ████████░░░░░░░░░░
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=MrSayanRoy&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=MrSayanRoy&theme=tokyonight&hide_border=true" />
 
 </div>
 
